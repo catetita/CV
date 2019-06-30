@@ -1,4 +1,4 @@
-Rocio Belen Sanchez
+**Rocio Belen Sanchez**
 ==================
 
 
@@ -8,14 +8,14 @@ Rocio Belen Sanchez
 * **Availability:**    Immediate, remote (telecommuting), flex-time, U.S.A. time zone (Argentina).
 
 
-Languages:
+**Languages:**
 ----
 
 **• English:**          Basic.
 **• Spanish:**          Native.
 
 
-Education:
+**Education:**
 ------
 
 * School: Technical College "Agustín Rocca" 3 (Argentina, city of Zarate).
@@ -28,23 +28,25 @@ Education:
 * In progress: English course. Currently starting an English course at the local educational institution.
 course
 
-Experience:
+**Experience:**
 -------
 
+* Linux , Git , Paython , Nim , SQL , HTML
 * Freelance: repair and support of computers in a small computer repair workshop.
 * Employee: Cashier in a local perfumery. Cash balance management.
 * Computer classes in elementary school
 * Technical reference in high school
+
   
 
-Hobby:
+**Hobby:**
 -------
 
 **thers:**  
 * Voluntario en la ONG local "Consejo Joven". Jugando con las computadoras.
 * Llevar a chicos de escuela secundaria a eventos sobre computación, software libre, programación, etc.
   
-Interests:
+**Interests:**
 ---------
 
 To have the opportunity to learn and work on software tech support,
