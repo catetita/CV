@@ -58,3 +58,4 @@ The place where I live do not have this kind of industry, remote work represents
 
 
 Thank you for your time, do not hesitate to contact me for any interviews or questions, let's talk.
+Spanish: Native. 
