@@ -47,7 +47,7 @@ course
 **Hobby:**
 -------
 
-**thers:**  
+**Others**  
 * Voluntario en la ONG local "Consejo Joven". Jugando con las computadoras.
 * Llevar a chicos de escuela secundaria a eventos sobre computación, software libre, programación, etc.
   
