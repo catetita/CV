@@ -6,10 +6,10 @@
 * **Mail:**               catetita.1410@gmail.com
 * **GitHub:**             https://github.com/catetita    
 * **linkedin:**           https://www.linkedin.com/in/rocio-sanchez-b08199153/
-* **When can I start?:**  Right now, immediately.
-* **Timezone:**           UTC -3:00.
                                                                               
 * **Availability:**    Immediate, remote (telecommuting), flex-time, U.S.A. time zone (Argentina).
+* **When can I start?:**  Right now, immediately.
+* **Timezone:**           UTC -3:00.
 
 
 **Languages:**
