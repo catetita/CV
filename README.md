@@ -5,7 +5,7 @@
 
 * **Mail:**               catetita.1410@gmail.com
 * **GitHub:**             https://github.com/catetita    
-* **linkedin**            https://www.linkedin.com/in/rocio-sanchez-b08199153/
+* **linkedin:**           https://www.linkedin.com/in/rocio-sanchez-b08199153/
                                                                               
 * **Availability:**    Immediate, remote (telecommuting), flex-time, U.S.A. time zone (Argentina).
 
@@ -14,6 +14,7 @@
 ----
 
 **• English:**          Basic.
+
 **• Spanish:**          Native.
 
 
@@ -58,4 +59,3 @@ The place where I live do not have this kind of industry, remote work represents
 
 
 Thank you for your time, do not hesitate to contact me for any interviews or questions, let's talk.
-Spanish: Native. 
