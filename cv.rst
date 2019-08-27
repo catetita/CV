@@ -4,7 +4,9 @@
 
 
 * **Mail:**               catetita.1410@gmail.com
-* **GitHub:**             https://github.com/catetita                                                                                  
+* **GitHub:**             https://github.com/catetita    
+* **linkedin**            https://www.linkedin.com/in/rocio-sanchez-b08199153/
+                                                                              
 * **Availability:**    Immediate, remote (telecommuting), flex-time, U.S.A. time zone (Argentina).
 
 
@@ -52,4 +54,5 @@ course
 To have the opportunity to learn and work on software tech support,
 expand knowledge about Linux operating systems and Python programming language,
 keep improving English skills, to be a fluent speaker.
-The place where I live do not have this kind of industry, remote work represents a unique opportunity for me, thanks...
+The place where I live do not have this kind of industry, remote work represents a unique opportunity for me, 
+Thank you for your time, do not hesitate to contact me for any interviews or questions, let's talk.
