@@ -36,7 +36,7 @@ course
 **Experience:**
 -------
 
-* Linux, Git, Paython, Nim, SQL, HTML
+* Linux, Git, Python, Nim, SQL, HTML
 * Freelance: repair and support of computers in a small computer repair workshop.
 * Employee: Cashier in a local perfumery. Cash balance management.
 * Computer classes in elementary school
